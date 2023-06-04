@@ -3,19 +3,7 @@
 <h1>안녕하세요</h1>
 
 <p>
-  <em>
-    <h3>
-      My Name Is
-      <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">
-        김상우 
-      </a>
-    </h3>
-  </em>
-  <em>
-  <h3>
-  </h3>
-    </em>
-  </em>
+
 </p>
 
 <br />
